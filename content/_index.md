@@ -2,13 +2,15 @@
 title: "Welcome!"
 date: 2022-05-16T17:25:56-07:00
 draft: false
+type: docs
 ---
 
 Welcome to the world of blindfolded solving. This website will contain a compilation of all the resources that a few blindfolded solvers made. Hopefully this is useful for you!
 
 ---
 
-{{< hint type=note icon=gdoc_person title=Contributors >}}
+{{< hint info >}}
+## Contributors
 - Andy Wong
 - Antonio Kam
 - Benjamin Paul

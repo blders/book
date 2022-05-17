@@ -1,33 +1,13 @@
-baseURL = "https://blders.rouxl.es"
-title = "Blindfolded Solving"
-theme = "hugo-geekdoc"
+baseURL = 'https://teaching.rouxl.es/'
+languageCode = 'en-us'
+title = 'Blindfolded Solving'
+theme = "hugo-book"
+enableGitInfo = true
 publishDir = "docs"
 
-pluralizeListTitles = false
-
-# Geekdoc required configuration
-pygmentsUseClasses = true
-pygmentsCodeFences = true
-disablePathToLower = true
-
-# Required if you want to render robots.txt template
-enableRobotsTXT = true
-
-# Needed for mermaid shortcodes
-[markup]
-  [markup.goldmark.renderer]
-    # Needed for mermaid shortcode
-    unsafe = true
-  [markup.tableOfContents]
-    startLevel = 1
-    endLevel = 9
-
-[taxonomies]
-   tag = "tags"
-
 [params]
-    geekdocToC = 3
-    geekdocLogo = "favicon.png"
-    geekdocBreadcrumb = false
-    geekdocRepo = "https://github.com/blders/book"
-    geekdocEditPath = "."
+
+    BookTheme = 'auto'
+    BookRepo = 'https://github.com/blders/book'
+    BookCommitPath = 'commit'
+    BookEditPath = 'blob/main'
