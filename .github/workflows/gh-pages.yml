@@ -21,7 +21,7 @@ jobs:
 
       - name: Build Geekdoc theme (1/2)
         working-directory: ./themes/hugo-geekdoc
-        run: npm install & npm install gulp
+        run: npm install && npm install gulp
 
       - name: Build Geekdoc theme (2/2)
         working-directory: ./themes/hugo-geekdoc
