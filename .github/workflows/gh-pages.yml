@@ -23,11 +23,9 @@ jobs:
           node-version: 16
 
       - name: Build Geekdoc theme (1/2)
-        working-directory: ./themes/hugo-geekdoc
         run: npm install
 
       - name: Build Geekdoc theme (2/2)
-        working-directory: ./themes/hugo-geekdoc
         run: npm run build
 
       - name: Setup Hugo
