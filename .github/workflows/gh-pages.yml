@@ -22,9 +22,13 @@ jobs:
         with:
           node-version: 12
 
-      - name: Build Geekdoc theme (1/2)
+      - name: Build Geekdoc theme (1a/2)
         working-directory: ./themes/hugo-geekdoc
         run: npm install
+        
+      - name: Build Geekdoc theme (1b/2)
+        working-directory: ./themes/hugo-geekdoc
+        run: npm install gulp
 
       - name: Build Geekdoc theme (2/2)
         working-directory: ./themes/hugo-geekdoc
