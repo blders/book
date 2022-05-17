@@ -1,6 +1,0 @@
-[book]
-authors = ["Andy Wong", "Antonio Kam", "Benjamin Paul", "Elliott Kobelansky", "Tommy Cherry"]
-language = "en"
-multilingual = false
-src = "src"
-title = "bufy bld"
