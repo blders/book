@@ -1,4 +1,4 @@
-baseURL = 'https://teaching.rouxl.es/'
+baseURL = 'https://blders.rouxl.es/'
 languageCode = 'en-us'
 title = 'Blindfolded Solving'
 theme = "hugo-book"
