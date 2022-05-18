@@ -2,11 +2,53 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://teaching.rouxl.es/</loc>
-    <lastmod>2022-05-16T10:29:10-07:00</lastmod>
+    <loc>https://blders.rouxl.es/docs/learning/content/orozco/</loc>
+    <lastmod>2022-05-16T22:21:31-07:00</lastmod>
   </url><url>
-    <loc>https://teaching.rouxl.es/categories/</loc>
+    <loc>https://blders.rouxl.es/docs/execution/</loc>
+    <lastmod>2022-05-16T22:21:31-07:00</lastmod>
   </url><url>
-    <loc>https://teaching.rouxl.es/tags/</loc>
+    <loc>https://blders.rouxl.es/docs/bigbld/content/4bld/</loc>
+    <lastmod>2022-05-16T22:30:20-07:00</lastmod>
+  </url><url>
+    <loc>https://blders.rouxl.es/docs/learning/content/3style/</loc>
+    <lastmod>2022-05-16T22:21:31-07:00</lastmod>
+  </url><url>
+    <loc>https://blders.rouxl.es/docs/memorization/</loc>
+    <lastmod>2022-05-16T22:21:31-07:00</lastmod>
+  </url><url>
+    <loc>https://blders.rouxl.es/docs/bigbld/content/5bld/</loc>
+    <lastmod>2022-05-16T22:30:20-07:00</lastmod>
+  </url><url>
+    <loc>https://blders.rouxl.es/docs/learning/</loc>
+    <lastmod>2022-05-16T22:21:31-07:00</lastmod>
+  </url><url>
+    <loc>https://blders.rouxl.es/docs/miscellaneous/</loc>
+    <lastmod>2022-05-16T22:21:31-07:00</lastmod>
+  </url><url>
+    <loc>https://blders.rouxl.es/docs/bigbld/</loc>
+    <lastmod>2022-05-16T22:30:20-07:00</lastmod>
+  </url><url>
+    <loc>https://blders.rouxl.es/docs/</loc>
+    <lastmod>2022-05-16T22:30:20-07:00</lastmod>
+  </url><url>
+    <loc>https://blders.rouxl.es/docs/execution/content/turning/</loc>
+    <lastmod>2022-05-16T22:09:09-07:00</lastmod>
+  </url><url>
+    <loc>https://blders.rouxl.es/docs/miscellaneous/content/floating/</loc>
+    <lastmod>2022-05-16T22:09:09-07:00</lastmod>
+  </url><url>
+    <loc>https://blders.rouxl.es/docs/memorization/content/accuracy/</loc>
+    <lastmod>2022-05-16T22:09:09-07:00</lastmod>
+  </url><url>
+    <loc>https://blders.rouxl.es/docs/memorization/content/tracing/</loc>
+    <lastmod>2022-05-16T22:09:09-07:00</lastmod>
+  </url><url>
+    <loc>https://blders.rouxl.es/</loc>
+    <lastmod>2022-05-16T22:09:09-07:00</lastmod>
+  </url><url>
+    <loc>https://blders.rouxl.es/categories/</loc>
+  </url><url>
+    <loc>https://blders.rouxl.es/tags/</loc>
   </url>
 </urlset>

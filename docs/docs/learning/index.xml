@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Learning on Blindfolded Solving</title>
+    <link>https://blders.rouxl.es/docs/learning/</link>
+    <description>Recent content in Learning on Blindfolded Solving</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 May 2022 18:00:44 -0700</lastBuildDate><atom:link href="https://blders.rouxl.es/docs/learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Orozco</title>
+      <link>https://blders.rouxl.es/docs/learning/content/orozco/</link>
+      <pubDate>Mon, 16 May 2022 18:04:31 -0700</pubDate>
+      
+      <guid>https://blders.rouxl.es/docs/learning/content/orozco/</guid>
+      <description>.</description>
+    </item>
+    
+    <item>
+      <title>3-Style</title>
+      <link>https://blders.rouxl.es/docs/learning/content/3style/</link>
+      <pubDate>Mon, 16 May 2022 18:04:38 -0700</pubDate>
+      
+      <guid>https://blders.rouxl.es/docs/learning/content/3style/</guid>
+      <description>Resources:
+ Timothy Goh&amp;rsquo;s video series on 3-Style and commutators in general Jack Cai&amp;rsquo;s video series on 3-Style Jack Cai&amp;rsquo;s 3-Style beginner&amp;rsquo;s sheet (very good for learning!)  One method that tends to work well for learning 3-style as a whole is to first look at a sheet (if you&amp;rsquo;re just starting out, Jack Cai&amp;rsquo;s sheet, or a slightly modified version is a great start) and go through each case one by one.</description>
+    </item>
+    
+  </channel>
+</rss>
